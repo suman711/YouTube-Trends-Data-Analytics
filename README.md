@@ -35,3 +35,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 ![Architecture](images/architecture_diagram_yt_trends_analytics.jpg)
+
+## Result - Analysis and Dashboard
+![Dashboard](images/quicksight_dashboard.png)
